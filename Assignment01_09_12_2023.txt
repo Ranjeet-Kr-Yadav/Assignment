@@ -1,0 +1,24 @@
+
+01. What is Single Page Application (SPA)
+Ans. An SPA is a web page that loads only a single web page and then updates the body content of that single page.
+02. What is DNS and IP Address
+Ans. A DNS is a server that provide a name of the website. it also translates domain names into IP addresses. 
+     An IP address is a numerical values assigned to each website that uses the Internet Protocol for communication.
+03. What Is DOM in JS
+Ans. DOM stand for Document Object Model. It is a interface which allow to change, create or remove element from page.
+04. What is  React and why we use React instead of JS
+Ans. React is a library that allow us to reuse the components. 
+      React provide a better experience and fast service as compare to js.
+05. What is JSX and why do we use it instead of js?
+Ans. JSX stands for JavaScript XML. It allow to use HTML element with js.
+      JSX makes the code easier to understand for users.
+06. What is package.json
+Ans. Package file contain important information about project.
+07. What is the Difference between react and react native? Which one is library or framework?
+Ans. React JS is used to build the web applications or webpage which run on web browser.
+      React Native is used to build mobile applications that run on Android devices.
+      React Js is library while React Native is Framework.
+08. What is difference between class and functional component.
+Ans. Class components are mainly sutaible for complex logic and advanced features,
+      but functional components provide simplicity, performance, and ease of use in react js
+      we may use any of both but nowdays functional components are uses.
